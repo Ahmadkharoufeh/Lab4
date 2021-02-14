@@ -20,3 +20,7 @@ jpg: image format that uses lossy compression to create smaller file sizes.
 gif: allows for animated images, something neither of the other formats mentioned here allow.
 png: lossless data compression and was created to replace the GIF image format.
 
+File Properties
+Graphics 
+For this part I was thinking about something that I want to open a website about since I did my best at making a car. I plan to fix it up and add a few colors and add sum text to it and save it and make it my background of the page.
+It took about 10 layers most of it was done with the pencil tool and then 1 square and a circle then just made duplicates of each shape so it was the same size.
